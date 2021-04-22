@@ -23,7 +23,7 @@
         },
         {
             "id": "4",
-            "names": "Bonnard Bikala",
+            "names": "Bonnard Kibala",
             "email": "bonnard@gmail.com",
             "profile": "bonnard.jpeg",
             "about": "If people are doubting how far you can go, go so far that you can’t hear them anymore."
@@ -99,9 +99,37 @@
             "about": "If people are doubting how far you can go, go so far that you can’t hear them anymore."
         },
         {
-            "id": "15",
-            "names": "Simeon Zilu",
-            "email": "simeon@gmail.com",
+            "id": "16",
+            "names": "Yves Mutshipay",
+            "email": "yves@gmail.com",
+            "profile": "simeon.jpeg",
+            "about": "If people are doubting how far you can go, go so far that you can’t hear them anymore."
+        },
+        {
+            "id": "17",
+            "names": "Kevin Armach",
+            "email": "kevin@gmail.com",
+            "profile": "simeon.jpeg",
+            "about": "If people are doubting how far you can go, go so far that you can’t hear them anymore."
+        },
+        {
+            "id": "18",
+            "names": "Benjamin Tondase",
+            "email": "benjamin@gmail.com",
+            "profile": "simeon.jpeg",
+            "about": "If people are doubting how far you can go, go so far that you can’t hear them anymore."
+        },
+        {
+            "id": "19",
+            "names": "Hobed Bayekula",
+            "email": "hobed@gmail.com",
+            "profile": "simeon.jpeg",
+            "about": "If people are doubting how far you can go, go so far that you can’t hear them anymore."
+        },
+        {
+            "id": "20",
+            "names": "Bellamard Kiala",
+            "email": "bella@gmail.com",
             "profile": "simeon.jpeg",
             "about": "If people are doubting how far you can go, go so far that you can’t hear them anymore."
         }
