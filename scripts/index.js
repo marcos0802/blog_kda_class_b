@@ -1,5 +1,5 @@
 window.onload = function () {
-  fetch("https://my-json-server.typicode.com/marcos0802/blog_kda_class_b/apprenants")
+  fetch("http://localhost:3000/apprenants")
     .then(function (response) {
       return response.json();
     })
