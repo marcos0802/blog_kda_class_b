@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+section {
+  padding: 30px 70px;
+}
+
+h1 {
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+.student,
+footer {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+footer {
+  padding: 20px 0;
+  font-size: 20px;
+}
+
+.student-container {
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.student {
+  background: rgb(21, 40, 56);
+  color: white;
+}
+.student-container .card {
+  background: rgb(24, 66, 100);
+  border-radius: 10px;
+  padding: 20px 10px;
+  margin: 10px;
+  text-align: center;
+  transition: all 0.3s ease;
+  width: calc(20% - 20px);
+  height: 400px;
+}
+.student .card:hover {
+  background: steelblue;
+  transform: scale(1.05);
+}
+.student-container .card img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 100px;
+  border: 2px solid steelblue;
+}
+.student-container .card:hover img {
+  border-color: white;
+}
+.student-container .card-title {
+  font-size: 1.2em;
+  font-weight: 500;
+  margin: 10px 0 7px 0;
+}
+
+p {
+  font-size: 13px;
+  font-style: italic;
+}
