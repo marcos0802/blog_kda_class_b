@@ -34,6 +34,6 @@ window.onload = function () {
         card.appendChild(cardContent);
 
         return studentsContainer.appendChild(card);
-      }).shuffle();
+      });
     });
 };
