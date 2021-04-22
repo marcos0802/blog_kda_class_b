@@ -30,7 +30,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .student {
@@ -44,7 +44,7 @@ footer {
   margin: 10px;
   text-align: center;
   transition: all 0.3s ease;
-  width: calc(25% - 20px);
+  width: calc(20% - 20px);
   height: 400px;
 }
 .student .card:hover {
