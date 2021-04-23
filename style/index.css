@@ -55,7 +55,7 @@ footer {
   height: 200px;
   width: 200px;
   object-fit: cover;
-  border-radius: 100px;
+  /* border-radius: 100px; */
   border: 2px solid steelblue;
 }
 .student-container .card:hover img {
